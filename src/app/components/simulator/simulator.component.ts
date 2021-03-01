@@ -9,8 +9,8 @@ export class SimulatorComponent implements OnInit {
   forma: FormGroup;
   loading:boolean=false;
   loading2:boolean=false;  
-  time1 = "7:00";
-  time2 = "9:30";
+  time1 = "07:00";
+  time2 = "09:30";
   time3 = "16:00";
   time4 = "19:30";
 
