@@ -1,4 +1,4 @@
-# Simulator
+# INSTALL THIS FIRST
 
 run npm install command
 
