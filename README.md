@@ -1,6 +1,7 @@
 # Simulator
 
 run npm install command
+
 run ng serve command
 # Simulator
 
