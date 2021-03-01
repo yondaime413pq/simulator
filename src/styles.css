@@ -1,1 +1,32 @@
-/* You can add global styles to this file, and also import other style files */
+
+.logo {
+    width: 120px;
+    height: 70px;
+    background: transparent;
+}
+
+.navbarsize {
+    padding-left: 10px;
+    font-size:25px;
+}
+
+
+body {
+    text-align: center;
+}
+form {
+    display:inline-table;
+
+}
+
+.row {
+    margin-bottom:20px;
+}
+
+.button {
+    width:100%;
+}
+
+.span {
+    margin-left: 10px;
+}
